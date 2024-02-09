@@ -1,4 +1,6 @@
-package edu.eci.arsw.primefinder;
+package primefinder;
+
+import primefinder.Control;
 
 public class Main {
 

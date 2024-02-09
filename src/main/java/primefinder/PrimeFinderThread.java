@@ -12,7 +12,7 @@ public class PrimeFinderThread extends Thread{
 	
 	public PrimeFinderThread(int a, int b) {
 		super();
-                this.primes = new LinkedList<>();
+                this.primes = new LinkedList<Integer>();
 		this.a = a;
 		this.b = b;
 	}
